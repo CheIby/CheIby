@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Sirasit Thianchare</h1>
 <h3 align="center">A passionate Full Stack Developer.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFmNDJjNjA0ZmQ0NjFhM2RkMWEwYTcwNjM5M2E2YjY4OTRiNWZjNiZjdD1n/L8K62iTDkzGX6/giphy.gif)">
+<img align="right" alt="Coding" width="350" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 - 🔭 I’m currently working on **FUEL & FIRE TRAINING**
 
