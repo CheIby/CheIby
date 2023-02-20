@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer.</h3>
 <img align="right" alt="Coding" width="350" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- 🔭 I’m currently working on **FUEL & FIRE TRAINING**
+- 🔭 I’m currently working on [FUEL & FIRE TRAINING](https://chelby.bxdman.com/)
 
 - 🌱 I’m currently learning **React, Tailwind, Typescript, Next.js**
 
